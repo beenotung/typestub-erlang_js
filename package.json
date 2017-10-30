@@ -1,0 +1,31 @@
+{
+  "name": "typestub-erlang_js",
+  "version": "0.0.0",
+  "description": "Typescript types of erlang_js",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "repository": "https://github.com/beenotung/typestub-erlang_js",
+  "author": "Beeno Tung <aabbcc1241@yahoo.com.hk>",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc -p .",
+    "lint": "tslint -p .",
+    "test": "run-s build lint",
+    "prepublishOnly": "npm test"
+  },
+  "dependencies": {
+    "erlang_js": "^1.7.2"
+  },
+  "devDependencies": {
+    "@angular/compiler": "^4.4.6",
+    "@angular/core": "^4.4.6",
+    "@types/node": "^8.0.47",
+    "codelyzer": "^3.2.2",
+    "npm-run-all": "^4.1.1",
+    "rxjs": "^5.0.1",
+    "tslint": "^5.0.0",
+    "tslint-eslint-rules": "^4.1.1",
+    "typescript": "^2.5.3",
+    "zone.js": "^0.8.4"
+  }
+}

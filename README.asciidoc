@@ -1,0 +1,7 @@
+= typestub-erlang_js
+
+Typescript types of erlang_js on
+link:https://www.npmjs.com/package/erlang_js[npm]
+
+The original repo on
+link:https://github.com/okeuday/erlang_js[Github]
