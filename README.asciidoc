@@ -1,7 +1,11 @@
 = typestub-erlang_js
 
-Typescript types of erlang_js on
-link:https://www.npmjs.com/package/erlang_js[npm]
+== Remark
 
-The original repo on
+This repo is deprecated, it is merged to fork of original repo at
+link:https://github.com/beenotung/erlang_js.git[@beenotung/erlang_js]
+
+The original erlang_js is on
+link:https://www.npmjs.com/package/erlang_js[npm]
+and
 link:https://github.com/okeuday/erlang_js[Github]
